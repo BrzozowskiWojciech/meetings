@@ -13,8 +13,8 @@ The Calendar Event Reader is a Python application designed to read and process c
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/calendar-event-reader.git
-    cd calendar-event-reader
+    git clone https://github.com/BrzozowskiWojciech/meetings.git
+    cd meetings
     ```
 
 2. Install the required dependencies:
