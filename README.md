@@ -19,7 +19,8 @@ The Calendar Event Reader is a Python application designed to read and process c
 
 2. Install the required dependencies:
     ```sh
-    pip install -r requirements.txt
+    poetry shell
+    poetry install
     ```
 
 ## Usage
